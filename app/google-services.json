@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169177636568",
+    "project_id": "macos-e717c",
+    "storage_bucket": "macos-e717c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169177636568:android:4c8ee53b658365fd00c1ad",
+        "android_client_info": {
+          "package_name": "com.example.ct_android_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169177636568-jt49mh7usukd7ag5auek0bjit6r285d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD288TkEkq6ZZQAhjFzovHYy1NQ1GSEW60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169177636568-jt49mh7usukd7ag5auek0bjit6r285d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
