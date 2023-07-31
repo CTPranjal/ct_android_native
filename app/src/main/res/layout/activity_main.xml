@@ -32,6 +32,20 @@
             app:sliderIndicatorUnselectedColor="#FFF"
             app:sliderScrollTimeInSec="1" />
 
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="140dp"
+            android:layout_height="71dp"
+            android:layout_below="@+id/slider"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="123dp"
+            android:layout_marginTop="172dp"
+            android:layout_marginEnd="148dp"
+            android:layout_marginBottom="288dp"
+            android:text="Profile" />
+
     </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
